@@ -1,0 +1,12 @@
+E:\ProjectsWorks\Practices\DotnetandAngularExmples\PrototypeProjects\Uplift\Uplift.Models\bin\Debug\net5.0\Uplift.Models.deps.json
+E:\ProjectsWorks\Practices\DotnetandAngularExmples\PrototypeProjects\Uplift\Uplift.Models\bin\Debug\net5.0\Uplift.Models.dll
+E:\ProjectsWorks\Practices\DotnetandAngularExmples\PrototypeProjects\Uplift\Uplift.Models\bin\Debug\net5.0\ref\Uplift.Models.dll
+E:\ProjectsWorks\Practices\DotnetandAngularExmples\PrototypeProjects\Uplift\Uplift.Models\bin\Debug\net5.0\Uplift.Models.pdb
+E:\ProjectsWorks\Practices\DotnetandAngularExmples\PrototypeProjects\Uplift\Uplift.Models\obj\Debug\net5.0\Uplift.Models.csproj.AssemblyReference.cache
+E:\ProjectsWorks\Practices\DotnetandAngularExmples\PrototypeProjects\Uplift\Uplift.Models\obj\Debug\net5.0\Uplift.Models.GeneratedMSBuildEditorConfig.editorconfig
+E:\ProjectsWorks\Practices\DotnetandAngularExmples\PrototypeProjects\Uplift\Uplift.Models\obj\Debug\net5.0\Uplift.Models.AssemblyInfoInputs.cache
+E:\ProjectsWorks\Practices\DotnetandAngularExmples\PrototypeProjects\Uplift\Uplift.Models\obj\Debug\net5.0\Uplift.Models.AssemblyInfo.cs
+E:\ProjectsWorks\Practices\DotnetandAngularExmples\PrototypeProjects\Uplift\Uplift.Models\obj\Debug\net5.0\Uplift.Models.csproj.CoreCompileInputs.cache
+E:\ProjectsWorks\Practices\DotnetandAngularExmples\PrototypeProjects\Uplift\Uplift.Models\obj\Debug\net5.0\Uplift.Models.dll
+E:\ProjectsWorks\Practices\DotnetandAngularExmples\PrototypeProjects\Uplift\Uplift.Models\obj\Debug\net5.0\ref\Uplift.Models.dll
+E:\ProjectsWorks\Practices\DotnetandAngularExmples\PrototypeProjects\Uplift\Uplift.Models\obj\Debug\net5.0\Uplift.Models.pdb
